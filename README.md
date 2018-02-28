@@ -21,5 +21,6 @@ This command is the same as following:
 
     docker stop tdf
     docker rm tdf
+    docker run -d -p 5000:5000 --name tdf template-docker-flask
 
 Here 'tdf' is a name which we set for our container.
