@@ -1,6 +1,6 @@
 # template-docker-flask
 
-Template for Docker Flask projects.
+Docker template for Python Flask projects.
 
 Build and Run Docker:
 

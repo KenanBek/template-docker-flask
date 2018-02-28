@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-MAINTAINER Kanan Rahimov "mail@kenanbek.me"
+LABEL Kanan Rahimov "mail@kenanbek.me"
 RUN apt-get update -y
 RUN apt-get install -y python-pip python-dev build-essential
 
